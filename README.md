@@ -1,3 +1,7 @@
+# WhatsApp Clone
+
+I cloned WhatsApp app using React and Firebase. I created the login part with Google account. After logging in, previous correspondence is pulled from the Firebase. It contains information about who sent the messages and when. New group can be created and new messages can be sent.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
